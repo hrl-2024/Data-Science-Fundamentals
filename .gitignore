@@ -1,1 +1,8 @@
 */*_solution.py
+
+# git ignore for submission branch
+# ignore everything
+*
+
+# except the following
+!lecture_04/worksheet_04.ipynb
